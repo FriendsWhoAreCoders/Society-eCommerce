@@ -5,3 +5,8 @@ The intention of this platform is to bring together business owners and the cust
 
 The Resident Owner's Association(ROA) hosts the platform and generate revenue from each business transaction that happens within the society. An Admin user will be pre-created which ROA can use monitor the businesses.
 
+## **Contributors**
+> * Jayanth SD
+> * Bharadwaj RM
+> * Manjunath Avadhani
+> **** More contributors gets added in the future ****
